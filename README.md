@@ -59,14 +59,37 @@ We are:
 
 ---
 
-### 🛠 **Our Tech Stack**
-```python
-quant_tech = {
-  "Languages": ["Python", "C++", "CUDA"],
-  "Trading": ["Futures", "Options", "Statistical Arbitrage"],
-  "Infra": ["Low Latency Systems", "Distributed Computing"]
-}
-```
+### 🛠️ Tech Stack at Wanyan
+
+#### **Programming & Quant**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white" alt="CUDA"/>
+  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" alt="Rust"/>
+</p>
+
+#### **Machine Learning**
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white" alt="Keras"/>
+</p>
+
+#### **Infrastructure**
+<p align="left">
+  <img src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white" alt="Kafka"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
+</p>
+
+#### **Quant Tools**
+| Category       | Technologies                              |
+|----------------|-------------------------------------------|
+| Backtesting    | Backtrader, Qlib, PyAlgoTrade             |
+| Execution      | TWAP, VWAP, Iceberg Orders               |
+| Data Analysis  | Pandas, NumPy, Arrow                      |
+| Risk           | VaR, CVaR, Monte Carlo Simulations       |
 
 ### 🤝 **Let's Connect**
 <p align="left">
