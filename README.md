@@ -8,7 +8,7 @@
 ---
 
 ### 🔍 **We're Hiring** 
-- **Quant Researcher** (Python/C++)  
+- **Quant Researcher** 
 - **Machine Learning Quant Researcher**  
 - **C++ Developer** (Low Latency/HFT)  
 - **Python Engineer** (Quant Infrastructure)  
