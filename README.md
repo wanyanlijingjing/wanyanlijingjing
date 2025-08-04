@@ -77,14 +77,3 @@ quant_tech = {
     <img src="https://img.shields.io/badge/Careers-4285F4?logo=google-chrome&logoColor=white" alt="Careers"/>
   </a>
 </p>
-```
-
----
-
-### ✨ **Key Features**
-1. **Bilingual Design**: Appeals to both English and Chinese speaking candidates
-2. **Tech-Focused**: Uses code blocks and quant-specific terminology
-3. **Visual Hierarchy**: Clear section separation with icons and badges
-4. **Company Branding**: Professional yet approachable tone
-
-**Pro Tip**: Replace the placeholder image with your company logo by uploading to [Imgur](https://imgur.com/) and updating the URL.
