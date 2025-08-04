@@ -24,7 +24,7 @@
 ---
 
 ### 🚀 **About Wanyan**  
-**Wanyan Asset Management**, founded in 2015, is a quantitative hedge fund with full-asset coverage including stocks, commodity futures, stock index futures, convertible bonds, and options. Our AUM exceeds **10 billion CNY**.  
+**Wanyan Asset Management**, founded in 2015, is a quantitative hedge fund with full-asset coverage including stocks, commodity futures, stock index futures, convertible bonds, and options. Our AUM exceeds **16 billion CNY**.  
 
 We are:  
 - Deeply rooted in quantitative research with extensive experience since China's stock index futures launch  
