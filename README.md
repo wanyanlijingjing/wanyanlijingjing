@@ -65,8 +65,6 @@ We are:
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white" alt="CUDA"/>
-  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" alt="Rust"/>
 </p>
 
 #### **Machine Learning**
@@ -83,13 +81,6 @@ We are:
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
-#### **Quant Tools**
-| Category       | Technologies                              |
-|----------------|-------------------------------------------|
-| Backtesting    | Backtrader, Qlib, PyAlgoTrade             |
-| Execution      | TWAP, VWAP, Iceberg Orders               |
-| Data Analysis  | Pandas, NumPy, Arrow                      |
-| Risk           | VaR, CVaR, Monte Carlo Simulations       |
 
 ### 🤝 **Let's Connect**
 <p align="left">
