@@ -1,6 +1,3 @@
-Here's your customized GitHub Profile README template in **English & Chinese** (bilingual version), designed to attract top quant and tech talents:
-
-```markdown
 <p align="center">
   <img src="https://via.placeholder.com/150/FF6B6B/FFFFFF?text=WY" width="100" alt="Wanyan Logo" />
 </p>
